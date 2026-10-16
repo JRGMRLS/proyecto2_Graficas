@@ -37,3 +37,4 @@ zig build run -Doptimize=ReleaseFast
 ```
 
 ## Video explicativo
+https://youtu.be/Z-ZiBSiqygw
